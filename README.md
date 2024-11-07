@@ -1,0 +1,1 @@
+OHLC data adjustment based on bonus and face value split . Use file paths correctly in order to prevent errors create multiple folders for saving copied files of bonus and split separately and for adjusted csv files.
